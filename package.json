@@ -1,0 +1,16 @@
+{
+  "name": "restful",
+  "version": "0.0.1",
+  "description": "Servicio Restful NodeJS-Mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agustin Jimenez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "promise": "^8.1.0"
+  }
+}
